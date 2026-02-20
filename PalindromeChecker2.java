@@ -2,7 +2,7 @@
 // Key Concepts: Class, Main Method, Static Keyword, String, String Literal,
 //               Conditional Statement (if-else), Console Output
 
-public class PalindromeChecker1 {
+public class PalindromeChecker2 {
     public static void main(String[] args) {
         String word = "madam";
         String reversed = new StringBuilder(word).reverse().toString();
